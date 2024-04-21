@@ -43,10 +43,12 @@ const theme = extendTheme({
       900: '#ca7e65',
     },
     background: {
+      800: '#f6f9fb',
       900: '#f2f2f2',
     },
     textBase: '#212e47',
     textGray: '#4b4b4b',
+    textGold: '#ca7e65',
 
     // Add more custom colors as needed
   },
